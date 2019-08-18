@@ -1,1 +1,1 @@
-# soniccell-bank-select
+# SonicCell-bank-select
